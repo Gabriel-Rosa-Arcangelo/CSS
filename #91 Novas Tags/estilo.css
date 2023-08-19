@@ -1,0 +1,33 @@
+header{
+    border: 1px solid #ccc;
+    background: #c09393;
+    padding: 10px;
+}
+
+nav{
+    border: 1px solid gray;
+    background: #f2f2f2;
+    padding: 10px;
+}
+
+footer{
+    background: #ccc;
+}
+
+article{
+    background-color: rgb(99, 48, 236);
+    padding: 10px;
+}
+
+section{
+    border: 1px dotted #fff;
+    background-color: rgb(110, 84, 180);
+}
+
+aside{
+    background: azure;
+}
+
+time{
+    color: blue;
+}
